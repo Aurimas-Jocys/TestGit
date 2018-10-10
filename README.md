@@ -1,4 +1,4 @@
 # TestGit
 TestGit
 
-Master change
+test/merge was modified
